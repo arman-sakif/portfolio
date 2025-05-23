@@ -16,50 +16,54 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="May 2024 - Aug 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Medical Billing and RCM Associate</h3>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>Intelligency Solutions</h4>
+            <h4 className="vertical-timeline-element-subtitle">Northville, MI (Remote)</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Revenue Cycle Management(RCM), CPT / ICD-10 Coding, Medical Terminology, EMR/EHR Systems, HIPAA Compliance
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="Sep 2023 - Aug 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Python Developer Consultant</h3>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>Techscope Org.</h4>
+            <h4 className="vertical-timeline-element-subtitle">New York, NY (Remote)</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Python, Data Transformation, Unit Testing, Client Handling
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="May 2020 - Aug 2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Backend Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle" style={{ color: 'teal' }}>ProyogLab</h4>
+            <h4 className="vertical-timeline-element-subtitle">Dhaka, Bangladesh</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Customer Support, Retail Management, Web Development Backend architecture
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="Feb 2020 - Apr 2020"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Customer Service Rep</h3>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>Just Storys Ltd.</h4>
+            <h4 className="vertical-timeline-element-subtitle">Dhaka, Bangladesh</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Customer Service, Social Media Management, Upselling, Collaboration, Communication
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
