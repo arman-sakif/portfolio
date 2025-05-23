@@ -35,10 +35,11 @@ const labelsThird = [
     "OpenAI",
     "Groq",
     "LangChain",
-    "Qdrant",
+    "ChromaDB",
     "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Ollama",
+    "RAG",
+    "Gradio",
 ];
 
 function Expertise() {
@@ -73,8 +74,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Data Science</h3>
+                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. Data acquisition, cleaning, processing transformation, training machine learning models and lastly deploying them.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
