@@ -58,7 +58,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://github.com/arman-sakif/cryptoPricePrediction" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/arman-sakif/cryptoPricePrediction" target="_blank" rel="noreferrer"><h2>TCrypto Price Prediction</h2></a>
+                <a href="https://github.com/arman-sakif/cryptoPricePrediction" target="_blank" rel="noreferrer"><h2>Crypto Price Prediction</h2></a>
                 <p>Utilized historical CoinMarketCap data and advanced machine learning techniques to predict Bitcoin’s high value, delivering actionable insights for investors through robust data engineering and predictive modeling.</p>
             </div>
             <div className="project">
