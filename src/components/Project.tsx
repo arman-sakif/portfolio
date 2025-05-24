@@ -17,54 +17,54 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://github.com/arman-sakif/movie_ratings_plot_summary" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/movie_ratings_plot_summary" target="_blank" rel="noreferrer"><h2>Predicting Movie Ratings</h2></a>
+                <p>Developed and deployed a BERT-based model to predict movie success from plot summaries, achieving an 81% F1-score—11% above baseline—using a custom dataset of 17,877 IMDB records.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://github.com/arman-sakif/Bengali-Fake-News-Detection" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/Bengali-Fake-News-Detection" target="_blank" rel="noreferrer"><h2>Bengali Fake News Detection</h2></a>
+                <p>Led a research project on Bengali fake news detection using NLP techniques and BERT fine-tuning, outperforming existing models, and co-authored a journal paper currently under Q2 review.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://github.com/arman-sakif/churnBigML" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/churnBigML" target="_blank" rel="noreferrer"><h2>Churn BigML</h2></a>
+                <p>Developed a telecom customer churn prediction model using the Churn BigML dataset and advanced ML algorithms, achieving 95.74% accuracy with LGBM and XGBoost while identifying key churn indicators through feature importance analysis.</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a href="https://arman-sakif.github.io/ZuperMart/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://arman-sakif.github.io/ZuperMart/" target="_blank" rel="noreferrer"><h2>ZuperMart: A Clothing Website</h2></a>
+                <p>Built a fully functional e-commerce website for a local clothing brand using HTML, CSS, JavaScript, Bootstrap5, and PHP, featuring a Wishlist system to replace traditional order and delivery methods.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <a href="https://github.com/arman-sakif/CityBoard" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/CityBoard" target="_blank" rel="noreferrer"><h2>CityBoard: Community Android App</h2></a>
+                <p>Led a team of three to develop CityBoard, a community-focused Android app using Java and Firebase, allowing users to create posts for selling items, lost and found, event recruitment, and more.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>COVID-19 Case Management</h2></a>
-                <p>Built official charts for COVID/vaccination tracking for an educational institution using JavaScript and the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
+                <a href="https://github.com/arman-sakif/Smart-Assassin" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/Smart-Assassin" target="_blank" rel="noreferrer"><h2>Smart Assasin: Game</h2></a>
+                <p>Developed a 3rd-person WebGL shooting game in C using iGraphics, where players complete objectives by strategically shooting at reflective surfaces to eliminate enemies, featuring a storyline and unlockable achievements.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Multiple Regression Property Analysis</h2></a>
-                <p>Analyzed the real estate market in Japan and predicted property prices by implementing statistical methods such as OLS and multi-regression analysis. This project leveraged Python and various libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.</p>
+                <a href="https://github.com/arman-sakif/expense_manager_f" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/expense_manager_f" target="_blank" rel="noreferrer"><h2>Expense Manager App (Flutter)</h2></a>
+                <p>Developed a cross-platform expense manager app using Flutter, AWS, and Python APIs, enabling users to input, categorize, and visualize expenses with dynamic pie charts across Android, iOS, and Web platforms.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Programs of Study</h2></a>
-                <p>Designed and developed a custom component for a CMS-based platform (e.g., 'Brightspot') using Java, Handlebars, and LESS. University students can find their majors of interest through this module.</p>
+                <a href="https://github.com/arman-sakif/Library-Management" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/Library-Management" target="_blank" rel="noreferrer"><h2>Library Management System (Java Swing)</h2></a>
+                <p>Created a Library Management System using Java Swing with features like adding, deleting, and searching books, utilizing a Red-Black Tree for efficient and balanced search operations.</p>
             </div>
             <div className="project">
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><h2>Transfer Evaluation Matrix</h2></a>
-                <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
+                <a href="https://github.com/arman-sakif/cryptoPricePrediction" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/cryptoPricePrediction" target="_blank" rel="noreferrer"><h2>TCrypto Price Prediction</h2></a>
+                <p>Utilized historical CoinMarketCap data and advanced machine learning techniques to predict Bitcoin’s high value, delivering actionable insights for investors through robust data engineering and predictive modeling.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a href="https://github.com/arman-sakif/RainAlert" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/RainAlert" target="_blank" rel="noreferrer"><h2>Rain Alert</h2></a>
+                <p>  </p>
             </div>
         </div>
     </div>
