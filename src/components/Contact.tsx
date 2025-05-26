@@ -56,7 +56,7 @@ function Contact() {
         <h1>CV/Resume</h1>
         <p>Last Updated: May 23, 2025</p>
         <div className="button-group">
-          <a href="https://arman-sakif.github.io/Resume/" target="_blank" rel="noopener noreferrer">
+          <a href="https://arman-sakif.github.io/CV/" target="_blank" rel="noopener noreferrer">
             <Button variant="contained" size="large" className="download-button">CV</Button>
           </a>
           <a href="https://arman-sakif.github.io/Resume/" target="_blank" rel="noopener noreferrer">
