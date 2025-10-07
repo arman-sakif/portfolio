@@ -12,6 +12,23 @@ function Timeline() {
       <div className="items-container">
         <h1>Career History</h1>
         <VerticalTimeline>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="Sept 2025 - Present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">AI Solutions and BI Developer Co-op</h3>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>FGF Brands</h4>
+            <h4 className="vertical-timeline-element-subtitle">North York, ON, Canada</h4>
+            <p>
+              **Power BI** dashboard and report publication, data integration and analysis using Copilot, developing real-time data ingestion and transformation workﬂows in **Databricks** with **PySpark**, and optimizing **SQL** for seamless system data access.
+            </p>
+          </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
