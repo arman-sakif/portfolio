@@ -25,7 +25,7 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>FGF Brands</h4>
             <h4 className="vertical-timeline-element-subtitle">North York, ON, Canada</h4>
             <p>
-              **Power BI** dashboard and report publication, data integration and analysis using Copilot, developing real-time data ingestion and transformation workﬂows in **Databricks** with **PySpark**, and optimizing **SQL** for seamless system data access.
+              Power BI dashboard and report, data transformation and integration, optimizing SQL and semantic models.
             </p>
           </VerticalTimelineElement>
 
