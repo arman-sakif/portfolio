@@ -17,9 +17,9 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/arman-sakif/movie_ratings_plot_summary" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/arman-sakif/movie_ratings_plot_summary" target="_blank" rel="noreferrer"><h2>Predicting Movie Ratings</h2></a>
-                <p>Developed and deployed a BERT-based model to predict movie success from plot summaries, achieving an 81% F1-score—11% above baseline—using a custom dataset of 17,877 IMDB records.</p>
+                <a href="https://github.com/arman-sakif/bike-shop" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/arman-sakif/bike-shop" target="_blank" rel="noreferrer"><h2>Bike Shop Dashboard</h2></a>
+                <p>This Power BI dashboard provides an analytical overview of sales performance, profit margins, and rider behavior for Goodman Bike Shop. The project was developed to uncover insights on revenue trends, profitability patterns, and customer engagement across different times and seasons.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/arman-sakif/Bengali-Fake-News-Detection" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
