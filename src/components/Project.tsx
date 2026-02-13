@@ -64,7 +64,7 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/arman-sakif/RainAlert" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/arman-sakif/RainAlert" target="_blank" rel="noreferrer"><h2>Rain Alert</h2></a>
-                <p>  </p>
+                <p>Rain Alert is a lightweight Python project that checks the weather daily using the OpenWeatherMap API and alerts registered users via email if it's likely to rain or snow. It's a simple automation script hosted on PythonAnywhere and designed to send timely umbrella reminders every morning.</p>
             </div>
         </div>
     </div>

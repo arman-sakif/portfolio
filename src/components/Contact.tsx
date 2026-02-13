@@ -8,7 +8,7 @@ function Contact() {
       <div className="items-container">
         <div className="contact_wrapper">
           <h1>CV/Resume</h1>
-          <p>Last Updated: Feb 10, 2026</p>
+ 
           <div className="button-group">
             <a href="https://arman-sakif.github.io/CV/" target="_blank" rel="noopener noreferrer">
               <Button variant="contained" size="large" className="download-button">CV</Button>
