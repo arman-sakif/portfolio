@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+# NOTE: /build is intentionally NOT ignored, pending confirmation. Vercel with the
+# auto-detected CRA preset builds from source, which would make the committed
+# build/ redundant. Check the Vercel deployment log: if it runs "npm run build",
+# then /build can be ignored and untracked.
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# deployment
+.vercel
+
+# assistant working notes (currently kept beside the repo, not inside it;
+# this rule is a guard in case the folder is ever moved in)
+/Context/
