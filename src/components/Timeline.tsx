@@ -17,7 +17,23 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="Sept 2025 - Present"
+            date="Aug 2026 - Present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Data Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: 'teal' }}>FGF Brands</h4>
+            <h4 className="vertical-timeline-element-subtitle">North York, ON, Canada</h4>
+            <p>
+              Production ETL/ELT pipelines in PySpark on Databricks, medallion architecture, CDC logic, and governed Unity Catalog tables serving downstream AI workloads.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="Sep 2025 - Aug 2026"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >

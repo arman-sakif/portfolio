@@ -11,7 +11,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/arman-sakif-09/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
       <a href="https://github.com/arman-sakif/" target="_blank" rel="noreferrer">Arman Sakif Chowdhury</a>
-      <p>Last Updated: Feb 13, 2026</p>
+      <p>Last Updated: Aug 17, 2026</p>
     </footer>
   );
 }
